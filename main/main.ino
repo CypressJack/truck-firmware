@@ -1,9 +1,16 @@
+#include <ESP8266WiFi.h>
+#include <secrets.h>
+
 void setup() {
-  // put your setup code here, to run once:
+  WiFi.begin("network-name", "pass-to-network");
 
 }
 
+
+
+
+
 void loop() {
-  // put your main code here, to run repeatedly:
+  // put your main code here, tosdfsdfsdfsdf run repeatedly:
 
 }
